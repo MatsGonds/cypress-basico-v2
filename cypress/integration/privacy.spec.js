@@ -11,4 +11,6 @@ describe('Central de Atendimento ao Cliente TAT', () => {
 
         cy.contains('h1[id="title"]', 'CAC TAT - Política de privacidade').should('be.visible')
     })
+
+
 })
